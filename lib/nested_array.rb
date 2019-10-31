@@ -41,7 +41,7 @@ def matrix_lookup(matrix, row, column)
 end
 
 def matrix_update(matrix, row, column, new_value)
-  assembled_matrix[0][2] = "Tiny Ewell"
+  assembled_matrix[0][1] = "Tiny Ewell"
   # Update the matrix location at row and column to have the value of new_value
   # Return the updated matrix
 end
