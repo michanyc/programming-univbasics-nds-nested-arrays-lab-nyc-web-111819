@@ -36,6 +36,7 @@ def array_literal_matrix
 end
 
 def matrix_lookup(matrix, row, column)
+  array[1][1]
   # Return the matrix's content at row and column
 end
 
